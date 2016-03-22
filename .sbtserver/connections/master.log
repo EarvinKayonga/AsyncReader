@@ -1,0 +1,19 @@
+New log file opened at Mon Mar 21 15:05:57 CET 2016 by 8310@EarvinKayonga.yodog.fr
+Taking next connection to: 59612
+New client attempting to connect on port: 59613-59612
+  Address = /192.168.2.18:59612
+This client on port 59613 has uuid a47249d6-3ac2-437c-8e5b-626aa4dd3bd7 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-a47249d6-3ac2-437c-8e5b-626aa4dd3bd7
+Taking next connection to: 59612
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 59612
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 59612
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 8310@EarvinKayonga.yodog.fr logs at Mon Mar 21 15:14:58 CET 2016, goodbye.
