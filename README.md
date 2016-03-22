@@ -9,7 +9,7 @@ Install Activator or SBT
 ## Run
 After cloning to this Repository
 
-***
+```
 cd AsyncReader
 activator run or sbt run
-***
+```
